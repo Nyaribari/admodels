@@ -6,7 +6,7 @@ Meta data and the Enum class for making choices easily and making the applicatio
 Since Django 3.0, there is a Choices class that extends Python’s Enum types with extra constraints and functionality.
 
 
-# UUID for ids unique.
+# UUID for making ids unique.
 
 Universally unique identifier is a 128-bit number, usually represented as 32 hexadecimal characters separated by four hyphens. The probability that a UUID will be duplicated is not zero, but it is close enough to zero to be negligible.
 
