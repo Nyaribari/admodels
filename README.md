@@ -17,3 +17,5 @@ Universally unique identifier is a 128-bit number, usually represented as 32 hex
 ID that Django uses out-of-the-box is incremented sequentially. That means that the 4th registered user has an id 4 and the 5th one has id 5. So, if I register and figure out that my id is 12, I know there were 11 people registered before me and I can try to get to their data by using their id. That makes your application very vulnerable.
 
 That's where UUID comes in handy. UUID key is randomly generated, so it doesn't carry any information as of how many people are registered to the page or what their id might be.
+
+![Admid model side]('/admins.png')
