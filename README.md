@@ -2,6 +2,8 @@
 
 # models.py file
 
+The **Tweeps application**, is a simple application that helps select tweeps in categories, depending on how long you've been a *twitter user/tweeting*. This appliuaction purely deals with the *models.py* file for data manipulation.
+
 **Exploring Django new functionalities.**
 
 Meta data and the Enum class for making choices easily and making the application fast fast.
