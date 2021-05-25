@@ -18,4 +18,4 @@ ID that Django uses out-of-the-box is incremented sequentially. That means that 
 
 That's where UUID comes in handy. UUID key is randomly generated, so it doesn't carry any information as of how many people are registered to the page or what their id might be.
 
-![Admid model side]('/admins.png')
+![Admin](./admins.png)
