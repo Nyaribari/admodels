@@ -1,11 +1,12 @@
 # admodels
-#Exploring Django new functionalities.
+
+**Exploring Django new functionalities.**
 
 Meta data and the Enum class for making choices easily and making the application fast fast.
 Since Django 3.0, there is a Choices class that extends Python’s Enum types with extra constraints and functionality.
 
 
-#UUID nonzero but negligible probability considered to make ids unique.
+# UUID nonzero but negligible probability considered to make ids unique.
 
 Universally unique identifier is a 128-bit number, usually represented as 32 hexadecimal characters separated by four hyphens. The probability that a UUID will be duplicated is not zero, but it is close enough to zero to be negligible.
 
