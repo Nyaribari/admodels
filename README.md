@@ -1,5 +1,7 @@
 # admodels
 
+# models.py file
+
 **Exploring Django new functionalities.**
 
 Meta data and the Enum class for making choices easily and making the application fast fast.
